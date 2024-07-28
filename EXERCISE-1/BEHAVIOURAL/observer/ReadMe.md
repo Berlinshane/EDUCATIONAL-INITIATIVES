@@ -1,7 +1,5 @@
 Here is the `README.md` file specifically for the Observer pattern example:
 
-**File Path: `C:\JAVA\EI\EXERCISE-1\BEHAVIOURAL\observer\README.md`**
-
 ```markdown
 # Observer Pattern Example
 
@@ -32,7 +30,7 @@ This project demonstrates the Observer design pattern. The Observer pattern is u
 1. **Navigate to the `observer` Directory**
 
    ```bash
-   cd C:\JAVA\EI\EXERCISE-1\BEHAVIOURAL\observer
+   cd <dir>
    ```
 
 2. **Compile the Java Files**

@@ -31,6 +31,8 @@ This repository contains various examples demonstrating the implementation of Ja
 - Follow the directory-specific instructions to compile and run the examples.
 - For detailed explanations and implementation details, refer to individual `README.md` files in each subdirectory.
 
+# Java Design Patterns - Exercise 2
+
 # Astronaut Daily Schedule Organizer
 
 This console-based application helps astronauts organize their daily schedules by allowing users to add, remove, view, and manage tasks. Each task includes a description, start time, end time, and priority level. The application uses various design patterns to manage tasks and ensure proper functionality.

@@ -21,6 +21,12 @@ This repository contains a console-based Java application designed to help astro
 - **Factory Pattern**: Uses a `TaskFactory` class to create `Task` objects.
 - **Observer Pattern**: Notifies users if a new task conflicts with existing tasks.
 
+Error Handling
+The application gracefully handles exceptions and provides appropriate error messages for invalid operations, such as overlapping tasks or invalid input.
+
+Logging
+The application includes a logging mechanism to track usage and errors, aiding in debugging and performance monitoring.
+
 ## Getting Started
 
 ### Prerequisites
